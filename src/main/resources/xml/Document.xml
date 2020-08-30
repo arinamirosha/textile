@@ -1,0 +1,14 @@
+<beans>
+   <object class="ru.sfedu.textile.classes.Document" id="1">
+      <product>6789</product>
+      <qty>4</qty>
+      <date>08-05-2020</date>
+      <type>sale</type>
+   </object>
+   <object class="ru.sfedu.textile.classes.Document" id="2">
+      <product>2345</product>
+      <qty>1</qty>
+      <date>08-05-2020</date>
+      <type>sale</type>
+   </object>
+</beans>

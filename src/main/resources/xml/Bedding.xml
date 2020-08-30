@@ -1,0 +1,11 @@
+<beans>
+   <object class="ru.sfedu.textile.classes.Bedding" article="7890">
+      <name>RedUnderpants</name>
+      <price>200</price>
+      <quantity>22</quantity>
+      <category>underpants</category>
+      <length>60</length>
+      <width>40</width>
+      <height>20</height>
+   </object>
+</beans>

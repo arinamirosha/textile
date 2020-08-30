@@ -1,0 +1,30 @@
+<beans>
+   <object class="ru.sfedu.textile.classes.Clothes" article="6789">
+      <name>WhiteSocks</name>
+      <price>60</price>
+      <quantity>10</quantity>
+      <category>socks</category>
+      <size>37-39</size>
+   </object>
+   <object class="ru.sfedu.textile.classes.Clothes" article="2345">
+      <name>WarmBlanket</name>
+      <price>1500</price>
+      <quantity>16</quantity>
+      <category>blanket</category>
+      <size>S</size>
+   </object>
+   <object class="ru.sfedu.textile.classes.Clothes" article="4567">
+      <name>WinterTights</name>
+      <price>150</price>
+      <quantity>11</quantity>
+      <category>tights</category>
+      <size>M-L</size>
+   </object>
+   <object class="ru.sfedu.textile.classes.Clothes" article="8901">
+      <name>RosePillowcase</name>
+      <price>100</price>
+      <quantity>10</quantity>
+      <category>pillowcase</category>
+      <size>noSize</size>
+   </object>
+</beans>
